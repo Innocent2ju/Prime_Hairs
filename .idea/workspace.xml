@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ecb1b52-8dcf-4d49-b0d8-ee2c262d246c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="39" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.34549575697086" />
+      <entry key="MS500" value="2.364763526718744" />
+      <entry key="S2" value="3.3316771237997136" />
+      <entry key="S5" value="5.807621334162639" />
+      <entry key="S10" value="8.280201184484232" />
+      <entry key="S30" value="11.072362331843939" />
+      <entry key="S60" value="11.98304026459945" />
+      <entry key="M2" value="12.477617707030811" />
+      <entry key="M5" value="12.937423456487194" />
+      <entry key="M10" value="14.477434292733111" />
+      <entry key="M15" value="16.583289013677486" />
+      <entry key="M30" value="23.757903637095346" />
+      <entry key="H1" value="47.08444971080022" />
+      <entry key="H2" value="105.00553542583738" />
+      <entry key="H4" value="187.82930456094851" />
+      <entry key="D1" value="338.3041166560275" />
+      <entry key="W1" value="377.86421637314635" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="2.9270908657932984E-248" />
+      <entry key="S30" value="3.0828737622805943E-83" />
+      <entry key="S60" value="5.7070253980116846E-42" />
+      <entry key="M2" value="3.053615162451025E-21" />
+      <entry key="M5" value="1.399418963883916E-8" />
+      <entry key="M10" value="3.346241854324062E-4" />
+      <entry key="M15" value="0.011432521540139896" />
+      <entry key="M30" value="0.5078181529479626" />
+      <entry key="H1" value="4.2617026611523015" />
+      <entry key="H2" value="13.9372842170041" />
+      <entry key="H4" value="26.52092650244199" />
+      <entry key="D1" value="47.03357557577726" />
+      <entry key="W1" value="52.09777955305364" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.301488571306967" />
+      <entry key="MS500" value="2.3494875802884496" />
+      <entry key="S2" value="3.325209967788064" />
+      <entry key="S5" value="5.801454553844373" />
+      <entry key="S10" value="8.275314528362717" />
+      <entry key="S30" value="11.070056156728125" />
+      <entry key="S60" value="11.98177694388684" />
+      <entry key="M2" value="12.476956078928149" />
+      <entry key="M5" value="12.937123198794616" />
+      <entry key="M10" value="14.47747406189855" />
+      <entry key="M15" value="16.594279324416053" />
+      <entry key="M30" value="24.26313411746773" />
+      <entry key="H1" value="51.337118608635244" />
+      <entry key="H2" value="118.9285051306305" />
+      <entry key="H4" value="214.33646545166232" />
+      <entry key="D1" value="385.33349430256953" />
+      <entry key="W1" value="429.96132641284345" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KBKk9sgHR95EUIkKMpmY6VqOiy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/prime_hairs/public/icons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Run",
+    "onboarding.tips.debug.path": "C:/Users/USER/WebstormProjects/prime_hairs/src/main.ts",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\USER\\WebstormProjects\\prime_hairs\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\prime_hairs\public\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\prime_hairs\public" />
+      <recent name="C:\Users\USER\WebstormProjects\prime_hairs\components" />
+      <recent name="C:\Users\USER\WebstormProjects\prime_hairs" />
+      <recent name="C:\Users\USER\WebstormProjects\prime_hairs\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ecb1b52-8dcf-4d49-b0d8-ee2c262d246c" name="Changes" comment="" />
+      <created>1791025665676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791025665676</updated>
+      <workItem from="1791025667715" duration="2239000" />
+      <workItem from="1791028068103" duration="701000" />
+      <workItem from="1791029105721" duration="2203000" />
+      <workItem from="1791539012442" duration="1820000" />
+      <workItem from="1791554124332" duration="1342000" />
+      <workItem from="1791586275251" duration="3091000" />
+      <workItem from="1791592494240" duration="256000" />
+      <workItem from="1791613796504" duration="7049000" />
+      <workItem from="1791624105377" duration="5324000" />
+      <workItem from="1791630081172" duration="1346000" />
+      <workItem from="1791631557663" duration="7318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
