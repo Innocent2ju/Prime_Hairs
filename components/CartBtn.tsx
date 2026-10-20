@@ -1,12 +1,32 @@
 'use client'
 import Image from "next/image";
-const CartBtn = () => {
+import posthog from "posthog-js";
+
+interface Props {
+    productId: number;
+    category: string;
+    price: number;
+}
+
+const CartBtn = ({productId, category, price}: Props) => {
     return (
         <button
             type="button"
             onClick={(e) => {
                 e.preventDefault();
                 e.stopPropagation();
+                if (process.env.NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN && process.env.NEXT_PUBLIC_POSTHOG_HOST) {
+                    posthog.capture("add_to_cart_clicked", {
+                        product_id: productId,
+                        category,
+                        price,
+                    });
+                    posthog.logger.info("product added to cart", {
+                        product_id: productId,
+                        category,
+                        price,
+                    });
+                }
             }}
             className="group relative flex items-center gap-2 rounded-full border border-[#D4AF37]/60 bg-black/80 px-3 py-2 text-xs font-semibold text-white backdrop-blur-md transition-all duration-500 ease-out hover:border-[#D4AF37] hover:bg-[#D4AF37] hover:text-black hover:shadow-[0_0_20px_rgba(212,175,55,0.4)] hover:scale-105 active:scale-95"
         >
