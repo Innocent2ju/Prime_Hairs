@@ -5,7 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ecb1b52-8dcf-4d49-b0d8-ee2c262d246c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/.posthog-wizard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/1-begin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/2-edit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/3-revise.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/4-conclude.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/COMMANDMENTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/EXAMPLE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/identify-users.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-F7UWHH/skills/integration-nextjs-app-router/references/next-js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/.posthog-wizard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/1-begin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/2-edit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/3-revise.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/4-conclude.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/COMMANDMENTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/EXAMPLE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/identify-users.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.posthog/wizard-spellbook-LEevVX/skills/integration-nextjs-app-router/references/next-js.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CartBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CartBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ProductCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ProductCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ShopBtn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShopBtn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -15,35 +44,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="41" />
+    <option name="cachedIndexableFilesCount" value="68" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Innocent2ju"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Innocent2ju/Prime_Hairs.git",
+    "accountId": "80d4672c-4a8f-43ce-93d5-efd92b56e060"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9130835257915333" />
-      <entry key="MS500" value="2.707848750278359" />
-      <entry key="S2" value="3.912938148331906" />
-      <entry key="S5" value="4.8987019344037" />
-      <entry key="S10" value="5.391115587721962" />
-      <entry key="S30" value="5.782466061311467" />
-      <entry key="S60" value="5.889298959997796" />
-      <entry key="M2" value="5.94415709404789" />
-      <entry key="M5" value="5.978140116655359" />
-      <entry key="M10" value="6.0956821654746784" />
-      <entry key="M15" value="6.647574849570172" />
-      <entry key="M30" value="10.8900516731783" />
-      <entry key="H1" value="27.41688794933995" />
-      <entry key="H2" value="76.62919023754785" />
-      <entry key="H4" value="160.3175805685016" />
-      <entry key="D1" value="335.43519989365905" />
-      <entry key="W1" value="384.9433063729646" />
+      <entry key="MS100" value="1.2552437772674092" />
+      <entry key="MS500" value="3.303161463158273" />
+      <entry key="S2" value="6.33569669266888" />
+      <entry key="S5" value="7.742090069382434" />
+      <entry key="S10" value="8.332901195096415" />
+      <entry key="S30" value="8.768491652051217" />
+      <entry key="S60" value="8.883135589210656" />
+      <entry key="M2" value="8.977331192173335" />
+      <entry key="M5" value="10.426933768194909" />
+      <entry key="M10" value="14.09269878156969" />
+      <entry key="M15" value="17.190748796087234" />
+      <entry key="M30" value="24.777327623461296" />
+      <entry key="H1" value="39.857347413861184" />
+      <entry key="H2" value="78.96103478535134" />
+      <entry key="H4" value="168.86720716378238" />
+      <entry key="D1" value="541.4428412285931" />
+      <entry key="W1" value="706.5315453195042" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -51,37 +92,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="1.6563168189636291E-127" />
-      <entry key="S60" value="4.183151951509517E-64" />
-      <entry key="M2" value="2.614334902602209E-32" />
-      <entry key="M5" value="5.235600757679071E-13" />
-      <entry key="M10" value="2.0467590083716717E-6" />
-      <entry key="M15" value="3.823680685634303E-4" />
-      <entry key="M30" value="0.09287054967453148" />
-      <entry key="H1" value="1.8225021233555179" />
-      <entry key="H2" value="9.114243037051601" />
-      <entry key="H4" value="21.44667231813426" />
-      <entry key="D1" value="45.39798042130169" />
-      <entry key="W1" value="51.83502239461667" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="7.636876641429567E-250" />
+      <entry key="M2" value="3.5323789534401266E-125" />
+      <entry key="M5" value="3.7260523205823857E-50" />
+      <entry key="M10" value="5.460192121870489E-25" />
+      <entry key="M15" value="1.5845614755609054E-16" />
+      <entry key="M30" value="5.978493396118821E-8" />
+      <entry key="H1" value="0.0014622610499126641" />
+      <entry key="H2" value="0.25816599625836417" />
+      <entry key="H4" value="3.609517348537271" />
+      <entry key="D1" value="33.73272320881111" />
+      <entry key="W1" value="49.681745215848494" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6964028765402404" />
-      <entry key="MS500" value="2.5424846895109274" />
-      <entry key="S2" value="3.8543196567892863" />
-      <entry key="S5" value="4.872479637309717" />
-      <entry key="S10" value="5.377400875610253" />
-      <entry key="S30" value="5.777742449783451" />
-      <entry key="S60" value="5.886916875471274" />
-      <entry key="M2" value="5.942960880159073" />
-      <entry key="M5" value="5.977660281388828" />
-      <entry key="M10" value="6.095435476959595" />
-      <entry key="M15" value="6.647757365103178" />
-      <entry key="M30" value="10.982300702979945" />
-      <entry key="H1" value="29.235407046179148" />
-      <entry key="H2" value="85.73399137204271" />
-      <entry key="H4" value="181.75307335788574" />
-      <entry key="D1" value="380.82911920442" />
-      <entry key="W1" value="436.7776612887487" />
+      <entry key="MS100" value="1.213726645766443" />
+      <entry key="MS500" value="3.281889672556838" />
+      <entry key="S2" value="6.325322404272424" />
+      <entry key="S5" value="7.736986244462302" />
+      <entry key="S10" value="8.330148152713363" />
+      <entry key="S30" value="8.76752447118681" />
+      <entry key="S60" value="8.882645462454493" />
+      <entry key="M2" value="8.97707946166938" />
+      <entry key="M5" value="10.426755664103965" />
+      <entry key="M10" value="14.092506224965883" />
+      <entry key="M15" value="17.190551165772163" />
+      <entry key="M30" value="24.777115836936566" />
+      <entry key="H1" value="39.858565375302575" />
+      <entry key="H2" value="79.21862286857964" />
+      <entry key="H4" value="172.47451717280393" />
+      <entry key="D1" value="575.1724316989979" />
+      <entry key="W1" value="756.2126318714968" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -98,6 +139,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -107,7 +149,7 @@
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/USER/WebstormProjects/prime_hairs/public/icons",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/prime_hairs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -173,11 +215,22 @@
       <workItem from="1791624105377" duration="5324000" />
       <workItem from="1791630081172" duration="1346000" />
       <workItem from="1791631557663" duration="7318000" />
-      <workItem from="1791719659397" duration="663000" />
+      <workItem from="1791719659397" duration="6935000" />
+      <workItem from="1791844626990" duration="5326000" />
+      <workItem from="1791937283230" duration="2183000" />
+      <workItem from="1791939625093" duration="4325000" />
+      <workItem from="1792056850751" duration="104000" />
+      <workItem from="1792057041241" duration="8512000" />
+      <workItem from="1792327466515" duration="2313000" />
+      <workItem from="1792335611108" duration="115000" />
+      <workItem from="1792487677512" duration="8912000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
